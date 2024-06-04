@@ -407,4 +407,8 @@ body {
 
 .ink-blue {
   color: #00244e;
+}
+
+.accordion-button, .accordion-body {
+  background: #F9F9F9;
 }/*# sourceMappingURL=style.css.map */
