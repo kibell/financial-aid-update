@@ -1,0 +1,49 @@
+// styles.scss
+
+@import "./Sass/Utilities/variables";
+@import "./Sass/Utilities/themes";
+@import "./Sass/Components/accordion";
+@import "./Sass/Components/accrediation";
+@import "./Sass/Components/buttons";
+@import "./Sass/Components/card";
+@import "./Sass/Components/footer";
+@import "./Sass/Components/nav";
+@import "./Sass/Utilities/assets";
+@import "./Sass/Utilities/global";
+
+
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.intro-section {
+  background: linear-gradient(rgba(0, 36, 78, 0.8) 50%, rgba(0, 36, 78, 0.8) 50%), url(https://image.dream.snhu.edu/lib/fe9213737460007973/m/1/12801768-e416-4e88-b895-ed159e4c34ea.jpg);
+  height: 345px;
+  background-size: cover;
+  background-position: center;
+}
+
+.bold-b {
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 700;
+text-align: left;
+color: #227AA7;
+
+}
+
+.w15 {
+  width: 15%;
+}
+
+.ink-blue {
+  color: $ink-blue;
+}
+  
+  
+  
+ 
+  
+  
+ 
+  
